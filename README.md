@@ -2,15 +2,6 @@
 
 A secure Node.js/Express backend authentication system with JWT token-based authentication, MongoDB database integration, and protected API endpoints.
 
-## Features
-
-- **User Authentication**: Register and login functionality with secure password hashing
-- **JWT Token Management**: Stateless authentication using JSON Web Tokens
-- **Protected Routes**: Middleware-based route protection
-- **MongoDB Integration**: Persistent data storage with Mongoose ODM
-- **Cookie-based Tokens**: Secure HTTP-only cookies for token storage
-- **Password Security**: BCrypt hashing for password encryption
-
 ## Prerequisites
 
 Before running this application, make sure you have the following installed:
